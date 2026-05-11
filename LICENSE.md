@@ -1,4 +1,4 @@
-
+instant Extension for OneNote for macOS - focus mode and markdown support offers the most advanced OneNote for macOS extension, with focus mode and markdown support. Ideal for
 
 
 
